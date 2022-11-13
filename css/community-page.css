@@ -159,7 +159,7 @@ button{
 }
 .community-bg1{
     height: 100%;
-    background-image: url("assets/CommunityBack.png");
+    background-image: url("./assets/CommunityBack.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
