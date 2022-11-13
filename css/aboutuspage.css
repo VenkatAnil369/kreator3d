@@ -8,11 +8,11 @@ body {
   background: #112C30;
   margin: 0px;
   padding: 0px;
-  font-family: sans-serif;
+  font-family: 'poppins', sans-serif;
   font-size: 15px;
   line-height: 26px;
   color: #B9CFD0;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'poppins', serif;
   overflow-x: hidden;
   overflow-y: scroll;
 }
@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'poppins', cursive;
 }
 .header {
   text-align: center;
@@ -354,11 +354,11 @@ h6 {
 .Cofounder_Name{
   text-align: center;
   font-size: 32px;
-  font-family: poppins;
+  font-family: 'poppins';
 }
 
 .cofounder_title{
-  font-family: poppins;
+  font-family: 'poppins';
   font-size: 40px;
   background-color: black;
   text-align: center;
